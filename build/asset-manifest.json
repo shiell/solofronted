@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0c0ab50.css",
+    "main.js": "/static/js/main.c1a1ef3d.js",
+    "static/media/ComercioExterior.jpg": "/static/media/ComercioExterior.e68ad8414f8025e49bf4.jpg",
+    "static/media/CentralRiesgos.png": "/static/media/CentralRiesgos.80de4fc2970cfa011f10.png",
+    "static/media/BolsaTrabajo.png": "/static/media/BolsaTrabajo.35c58f28039964185322.png",
+    "static/media/CapacitacionEmpresarial.png": "/static/media/CapacitacionEmpresarial.95ba7c60ac7ddebf14ab.png",
+    "static/media/Eve1.png": "/static/media/Eve1.d2be8fc82712523d22d4.png",
+    "static/media/AlquilerAmbientes.png": "/static/media/AlquilerAmbientes.6406a0c2ed986d95dcdd.png",
+    "static/media/Eve2.png": "/static/media/Eve2.bb442759a850804157b4.png",
+    "static/media/Libro.png": "/static/media/Libro.e8971d34f45e34c65e63.png",
+    "static/media/Pregunta.png": "/static/media/Pregunta.d649bd9e681e8810254e.png",
+    "static/media/CapacitacionM.png": "/static/media/CapacitacionM.d95ef3c4fabbbce5e7f7.png",
+    "static/media/Protestos.png": "/static/media/Protestos.3dc9248e89b24e31f58a.png",
+    "static/media/Preguntas.png": "/static/media/Preguntas.de509049d3cc21294f5d.png",
+    "static/media/Logociee.png": "/static/media/Logociee.8653e0e6021b0952aa6d.png",
+    "static/media/loading-dots.gif": "/static/media/loading-dots.459cb7f164c08cfe316c.gif",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/Twiter.svg": "/static/media/Twiter.4a0f0d6cb79102778c84de28181c4b56.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/youtube.svg": "/static/media/youtube.1110ce15c8cb9ec2f47eb0836acf1f7a.svg",
+    "static/media/Instagram.svg": "/static/media/Instagram.acb2feeb0c55e44fb3b2a47c279858f2.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.e29733c5fa318cf187aaf599a01faee0.svg",
+    "static/media/check.svg": "/static/media/check.a1964bc56d95ad5fa95597a271ad02b1.svg",
+    "static/media/Telefono.svg": "/static/media/Telefono.c5cec9e72c2454ab59817de4ef859ece.svg",
+    "static/media/Localizacion.svg": "/static/media/Localizacion.edabb31b3ca65daa7402fe598efd5986.svg",
+    "static/media/Reloj.svg": "/static/media/Reloj.a4d645d4684425382a213f3f76ebc7ad.svg",
+    "static/media/Email.svg": "/static/media/Email.f6e9db9194fece1c4ecc6f3eca54def6.svg",
+    "main.a0c0ab50.css.map": "/static/css/main.a0c0ab50.css.map",
+    "main.c1a1ef3d.js.map": "/static/js/main.c1a1ef3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0c0ab50.css",
+    "static/js/main.c1a1ef3d.js"
+  ]
+}
